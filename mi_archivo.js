@@ -1,2 +1,3 @@
 console.log('Hola Mundo')
-Este es un ejercicio de uso de git y hithub
+console.log('Armando Garita Navarro')
+Este es un ejercicio de uso de git y Github
